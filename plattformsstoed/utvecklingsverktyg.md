@@ -14,7 +14,7 @@ Visual studio ingår i VGR's Gold partner subscription och kan hämtas på [My V
 
 **Java webbutveckling**
 
-För java utveckling kan [IntelliJ IDEA](https://www.jetbrains.com/idea/) användas.
+För javautveckling kan [IntelliJ IDEA](https://www.jetbrains.com/idea/) användas.
 
 **Android**
 
@@ -46,15 +46,15 @@ Open-source, cross-platform hybrid dataanalys (query editor, Jupyter Notebooks o
 
 #### IntelliJ Ultimate
 
-I IntelliJ Ultimate finns det inbyggt gränssnitt för databas hantering.
+I IntelliJ Ultimate finns det inbyggt gränssnitt för databashantering.
 
 #### DbVisualizer
 
-Även [DbVisualizer](https://www.dbvis.com/) kan användas för att koppla upp sig till olika typer databaser
+Även [DbVisualizer](https://www.dbvis.com/) kan användas för att koppla upp sig till olika typer av databaser
 
 #### pgAdmin
 
-För javaapplikationer som använder PostgreSQL rekommenderas [pgAdmin](https://www.pgadmin.org/download/)
+För applikationer som använder PostgreSQL rekommenderas [pgAdmin](https://www.pgadmin.org/download/)
 
 ***
 
@@ -62,11 +62,11 @@ För javaapplikationer som använder PostgreSQL rekommenderas [pgAdmin](https://
 
 #### IntelliJ
 
-I IntelliJ finns det inbyggt gränssnitt för Git hantering. [Version Control](https://www.jetbrains.com/help/idea/version-control-integration.html)
+I IntelliJ finns det inbyggt gränssnitt för versionshantering med Git. [Version Control](https://www.jetbrains.com/help/idea/version-control-integration.html)
 
 #### Visual studio
 
-I Visual studio finns det inbyggt gränssnitt för Git hantering. Läs mer här [How Visual Studio makes version control easy with Git](https://learn.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio)
+I Visual studio finns det inbyggt gränssnitt för versionshantering med Git. Läs mer här [How Visual Studio makes version control easy with Git](https://learn.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio)
 
 #### Git-Gui
 
